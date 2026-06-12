@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="u8YFqe6ggO2H3ReFXxPR">
+    <mxGraphModel dx="964" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MQiwkt6mNbywzdb4_OpO-20" edge="1" parent="1" source="MQiwkt6mNbywzdb4_OpO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;" target="MQiwkt6mNbywzdb4_OpO-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MQiwkt6mNbywzdb4_OpO-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MacBook Air M2 (host)" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MQiwkt6mNbywzdb4_OpO-9" edge="1" parent="1" source="MQiwkt6mNbywzdb4_OpO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MQiwkt6mNbywzdb4_OpO-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MQiwkt6mNbywzdb4_OpO-15" edge="1" parent="1" source="MQiwkt6mNbywzdb4_OpO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="MQiwkt6mNbywzdb4_OpO-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MQiwkt6mNbywzdb4_OpO-17" edge="1" parent="1" source="MQiwkt6mNbywzdb4_OpO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;" target="MQiwkt6mNbywzdb4_OpO-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MQiwkt6mNbywzdb4_OpO-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Windows 11 Pro&lt;div&gt;Victim VM&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="MQiwkt6mNbywzdb4_OpO-25" edge="1" parent="1" source="MQiwkt6mNbywzdb4_OpO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="300" />
+            </Array>
+            <mxPoint x="400" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MQiwkt6mNbywzdb4_OpO-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ubuntu Server&lt;div&gt;Wazuh Manager&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="580" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="MQiwkt6mNbywzdb4_OpO-8" edge="1" parent="1" source="MQiwkt6mNbywzdb4_OpO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MQiwkt6mNbywzdb4_OpO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MQiwkt6mNbywzdb4_OpO-26" edge="1" parent="1" source="MQiwkt6mNbywzdb4_OpO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="300" />
+            </Array>
+            <mxPoint x="400" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MQiwkt6mNbywzdb4_OpO-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Kali Linux&lt;div&gt;Attacker VM&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="MQiwkt6mNbywzdb4_OpO-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SOC Lab" vertex="1">
+          <mxGeometry height="30" width="100" x="350" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MQiwkt6mNbywzdb4_OpO-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sysmon" vertex="1">
+          <mxGeometry height="30" width="60" x="370" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="MQiwkt6mNbywzdb4_OpO-18" edge="1" parent="1" source="MQiwkt6mNbywzdb4_OpO-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="MQiwkt6mNbywzdb4_OpO-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MQiwkt6mNbywzdb4_OpO-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Wazuh Agent" vertex="1">
+          <mxGeometry height="30" width="80" x="360" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="MQiwkt6mNbywzdb4_OpO-21" edge="1" parent="1" source="MQiwkt6mNbywzdb4_OpO-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" target="MQiwkt6mNbywzdb4_OpO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MQiwkt6mNbywzdb4_OpO-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="UTM Virtualisation" vertex="1">
+          <mxGeometry height="30" width="120" x="340" y="220" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
